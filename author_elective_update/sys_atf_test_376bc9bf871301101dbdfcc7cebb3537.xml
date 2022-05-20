@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from display_value="When needed - Future">f975c1fb871301101dbdfcc7cebb3584</copied_from>
+        <description>Test generated from template. To complete this test do the following:
+1. Create a user with specified roles and groups for impersonation.
+2. Insert a record to the table.
+3. Select a record and validate field values.
+4. Log an output.
+</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>When needed - past</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-13 06:13:55</sys_created_on>
+        <sys_id>376bc9bf871301101dbdfcc7cebb3537</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>When needed - past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_376bc9bf871301101dbdfcc7cebb3537</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-13 06:14:46</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=376bc9bf871301101dbdfcc7cebb3537"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a15b6c4fdb494110e62f3feb68961935</instance_id>
+        <instance_name>dev121922</instance_name>
+        <name>sys_atf_test_376bc9bf871301101dbdfcc7cebb3537</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="When needed - Future">f975c1fb871301101dbdfcc7cebb3584</copied_from><description>Test generated from template. To complete this test do the following:
+1. Create a user with specified roles and groups for impersonation.
+2. Insert a record to the table.
+3. Select a record and validate field values.
+4. Log an output.
+</description><enable_parameterized_testing>false</enable_parameterized_testing><name>When needed - past</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-13 06:13:55</sys_created_on><sys_id>376bc9bf871301101dbdfcc7cebb3537</sys_id><sys_mod_count>1</sys_mod_count><sys_name>When needed - past</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_376bc9bf871301101dbdfcc7cebb3537</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-13 06:14:46</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=376bc9bf871301101dbdfcc7cebb3537"/></record_update>]]></payload>
+        <payload_hash>-2036229147</payload_hash>
+        <record_name>When needed - past</record_name>
+        <reverted_from/>
+        <source>a6700d05875701101dbdfcc7cebb35bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-13 06:14:46</sys_created_on>
+        <sys_id>48ab0133875301101dbdfcc7cebb35fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180bc0e28cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-13 06:14:46</sys_updated_on>
+        <type>Test</type>
+        <update_guid>40ab0133565301103354121aa3abaafc</update_guid>
+        <update_guid_history>40ab0133565301103354121aa3abaafc:-2036229147,fb6bc9bfb31301100cc07b7284e02939:-1708290929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-17 13:11:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>5855d7159c024f2ca4995f3b45938a44</sys_id>
+        <sys_metadata>376bc9bf871301101dbdfcc7cebb3537</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed - past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_376bc9bf871301101dbdfcc7cebb3537</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_376bc9bf871301101dbdfcc7cebb3537">48ab0133875301101dbdfcc7cebb35fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 13:11:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
